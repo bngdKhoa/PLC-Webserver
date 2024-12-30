@@ -1,0 +1,51 @@
+﻿
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.table tbody tr:hover {
+    background-color: #eaeaea;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.table .center {
+    text-align: center;
+}
+
+.table .right {
+    text-align: right;
+}
+
+.table .bold {
+    font-weight: bold;
+}
+
+.table .index {
+    width: 20px;
+    text-align: center;
+}
+
+.h2 {
+    text-align: center;
+    color: blue;
+}
+
+.text-input {
+    width: 1000px;
+    padding: 82px;
+}
